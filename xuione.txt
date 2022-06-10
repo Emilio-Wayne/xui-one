@@ -1,0 +1,11 @@
+1. install uione with wget "https://update.xui.one/XUI_1.5.12.zip" -O /tmp/XUI_1.5.12.zip
+2. cd in to tmp with cd /tmp
+3.unzip uione with unzip XUI_1.5.12.zip then run cmd ./install
+4.Once installed itll give you a url paste it in to a browser and leave it at licence page.
+
+installig uione Activation
+
+1.ftp all files inside the .Zip file to the folder /tmp on your server
+2.chmod the install.sh with this chmod -R 777 install.sh
+3.now run ./install.sh wait for it to finish
+4. go to your fresh panel and enjoy
